@@ -1,4 +1,4 @@
-#Listen Music App
+Listen Music App
 
 Elegant music player that enhances your listening experience.
 
